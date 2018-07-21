@@ -1,0 +1,11 @@
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp2.0\CodeFirst.deps.json
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp2.0\CodeFirst.runtimeconfig.json
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp2.0\CodeFirst.runtimeconfig.dev.json
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp2.0\CodeFirst.dll
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.csprojAssemblyReference.cache
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.csproj.CoreCompileInputs.cache
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.AssemblyInfoInputs.cache
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.AssemblyInfo.cs
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\bin\Debug\netcoreapp2.0\CodeFirst.pdb
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.dll
+c:\users\ramya.vempalla\source\repos\CodeFirst\CodeFirst\obj\Debug\netcoreapp2.0\CodeFirst.pdb
